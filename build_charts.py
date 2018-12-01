@@ -48,6 +48,7 @@ def create_figure(data, title):
     ax.set_xlabel('College Applicant Count')
     ax.set_ylabel('US-Master Applicant Count')
     ax.set_title(title)
+    ax.grid(True)
     plt.colorbar(cs)
     fig.set_facecolor('lightgray')
     # plt.show()
