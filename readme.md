@@ -13,5 +13,5 @@ The charts are drawn from a meshgrid of different applicant count, with X-axis r
 ![Old Chances](/images/old_chances.png)
 
 *Chances for US Master Degree holders under new rule:*
-![New Chances](/images/improvement.png)
+![New Chances](/images/new_chances.png)
 
