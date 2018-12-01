@@ -6,12 +6,12 @@ On 11/30/2018, White House proposed new H1B rules for lottery. In summary, this 
 
 The charts are drawn from a meshgrid of different applicant count, with X-axis representing normal applicants, and Y-axis representing applicants with US master degree. The percentages are calculated analytically.
 
+*How much more likely is an US Master Degree applicant holder to win the lottery:*
 ![Improvement](/images/improvement.png)
-*How much more likely is an US Master Degree applicant holder to win the lottery*
 
+*Chances for US Master Degree holders under old rule:*
 ![Old Chances](/images/old_chances.png)
-*Chances for US Master Degree holders under old rule*
 
+*Chances for US Master Degree holders under new rule:*
 ![New Chances](/images/improvement.png)
-*Chances for US Master Degree holders under new rule*
 
